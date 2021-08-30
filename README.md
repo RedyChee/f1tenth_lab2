@@ -1,4 +1,4 @@
-# osrobotics_motion_planning_assignment
+# f1tenth_lab2
 
 This assignment from [F1TENTH](https://f1tenth.org/learn.html) practices on ROS concepts.
 
